@@ -4,8 +4,8 @@
 // Everything in ONE file for easy learning
 // =======================================
 
-// 1️⃣ Import required packages
-const express = require('express');
+   // REST API Server for CRUD Operations
+   const express = require('express');
 const mongoose = require('mongoose');
 
 // 2️⃣ Create Express app
