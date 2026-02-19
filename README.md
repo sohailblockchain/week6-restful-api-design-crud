@@ -22,3 +22,7 @@ PUT     /products/:id
 DELETE  /products/:id
 
 Everything is inside server.js for easy understanding.
+
+
+ ## Contributing
+   Pull requests are welcome! Feel free to contribute.
