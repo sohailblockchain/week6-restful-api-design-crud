@@ -1,7 +1,7 @@
 {
   "name": "simple-rest-api-demo",
   "version": "1.0.0",
-  "description": "Beginner Friendly REST API Demo",
+   "description": "A simple RESTful API with CRUD operations for beginners",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
